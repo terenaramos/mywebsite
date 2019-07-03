@@ -1,0 +1,7 @@
+.selector-for-some-widget {
+    box-sizing: content-box;
+  }
+  h1{
+      font-family: 'Didact Gothic', sans-serif;
+      color: blue;
+  }
